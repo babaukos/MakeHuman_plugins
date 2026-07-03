@@ -8,12 +8,12 @@ This repository contains two separate plugins:
 
 1. **Coordinate Axes Plugin**
    * Displays a 3D coordinate widget in the viewport to easily track the X, Y, and Z axes orientations.
-   * *[image/AxisScene.png]*
+   ![Axis Trypod](image/AxisScene.png)
 
 2. **Navigation Cube Plugin**
    * Adds an interactive navigation cube (similar to Blender or CAD software).
    * Allows you to quickly rotate the viewport and snap to specific orthographic or isometric views (Front, Back, Top, Bottom, Left, Right) by clicking on the cube faces.
-     * *[image/NavCube.png]*
+     ![Navigation Cube](image/NavCube.png)
 
 ---
 
