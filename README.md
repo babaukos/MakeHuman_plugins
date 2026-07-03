@@ -13,7 +13,8 @@ This repository contains two separate plugins:
 2. **Navigation Cube Plugin**
    * Adds an interactive navigation cube (similar to Blender or CAD software).
    * Allows you to quickly rotate the viewport and snap to specific orthographic or isometric views (Front, Back, Top, Bottom, Left, Right) by clicking on the cube faces.
-     ![Navigation Cube](image/NavCube.png)
+
+  ![Navigation Cube](image/NavCube.png)
 
 ---
 
